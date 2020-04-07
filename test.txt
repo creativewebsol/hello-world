@@ -1,1 +1,2 @@
 this is a testing demo for git
+echo command to write into some file and then >> sign to push to that file
